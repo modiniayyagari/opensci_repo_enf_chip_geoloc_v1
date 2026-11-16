@@ -1,0 +1,26 @@
+{
+  "benchmark_timing": {
+    "diagnostic_only": true,
+    "frame_count": 25,
+    "frame_max_seconds": 0.1054030859433105,
+    "frame_max_ticks": 35134363,
+    "frame_mean_seconds": 0.10531874958575627,
+    "frame_min_seconds": 0.10522151994857593,
+    "frame_min_ticks": 35073841,
+    "frame_total_ticks": 877656272,
+    "request_id": 11,
+    "sha256_ecdsa_ms": 20.610866402284874,
+    "sha256_ecdsa_ticks": 6870289,
+    "timer_hz": 333333343
+  },
+  "board_evidence_version": 1,
+  "device_id": "ZB_CITYA",
+  "evidence_sha256": "52933cbdd835a5e60d3aeacdb89fecad8cad17685ebd518dd80bb2999592440e",
+  "evidence_type": "ENF_ONLY",
+  "nonce": "b0e4f2699520ba99da08d57a7deaaca5",
+  "protocol": "ENF_LOCATION_ATTESTATION",
+  "public_key_sha256": "5cff0fcb4982b3b6ab8e59bd06b366076a72affbc982abbf557b01be9dfe65ee",
+  "request_id": 11,
+  "signature_bytes": 64,
+  "verifier_id": "VERIF_CITYA"
+}
