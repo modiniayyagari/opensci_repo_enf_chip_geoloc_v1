@@ -1,0 +1,18 @@
+{
+  "verifier_id": "VERIF_CITYA",
+  "protocol": "ENF_REFERENCE_CAPTURE",
+  "trusted_nodes": {
+    "ZB_CITYA": {
+      "role": "zedboard_attester",
+      "algorithm": "ECDSA_P256_SHA256",
+      "public_key": "zb_citya_public.pem",
+      "public_key_sha256": "5cff0fcb4982b3b6ab8e59bd06b366076a72affbc982abbf557b01be9dfe65ee"
+    },
+    "REF_CITYA": {
+      "role": "reference_attester",
+      "algorithm": "ECDSA_P256_SHA256",
+      "public_key": "ref_citya_public.pem",
+      "public_key_sha256": "ac7fc19851a55f58915eb7b71a250d17d807f340ec7f4f95c3714a932f72cfc5"
+    }
+  }
+}
